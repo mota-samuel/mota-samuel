@@ -49,15 +49,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   <a href="https://wa.me/5519971515187?text=Ol%C3%A1,%20tudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   </a> 
 </div>
+
 ![Snake animation](https://github.com/mota-samuel/blob/output/github-contribution-grid-snake.svg)
-</div>
   
-  ##
- 
-<div> 
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mota-samuel}/count.svg" /></p> 
 <br></div>
 
 
