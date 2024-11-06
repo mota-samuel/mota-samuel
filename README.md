@@ -50,7 +50,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   </a> 
 </div>
 
-![GitHub Snake Animation](https:/mota-samuel.github.io/mota-samuel/tree/main/.github/workflows/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mota-samuel/mota-samuel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mota-samuel/mota-samuel/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mota-samuel/mota-samuel/output/github-contribution-grid-snake.svg">
+</picture>
+
   
 
 <div align="center">
