@@ -50,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   </a> 
 </div>
 
-![Snake animation](https://github.com/mota-samuel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mota-samuel/mota-samuel/blob/output/github-contribution-grid-snake.svg)
   
 
 <div align="center">
